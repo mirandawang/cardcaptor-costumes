@@ -1,0 +1,30 @@
+[
+  {
+  	"id": 1,
+  	"name": "Red and White Dress",
+  	"imgSrc": "red_white_dress",
+  	"description": "A spaghetti-strap dress with a large and puffy skirt supported by layers of white tulle underneath. The body of the dress is in red, its hem lined with white. A white blouse with frill sleeves and a ribbon on the frills is worn underneath the dress, with a large red bow to decorate the collar. Long white stockings and a pair of red shoes with a ribbon are worn with this ensemble. Accessories include a pair of white gloves, a pair of white wings, as well as a red beret with a ribbon behind it.",
+  	"episode": "1"
+  },
+  {
+  	"id": 2,
+  	"name": "Space Cadet",
+  	"imgSrc": "space_cadet",
+  	"description": "A light pink dress with two white rims around the skirt to create a futuristic look. A golden plate is placed in between the pink and white part of the chest to secure the two in place. The shoulders also have double rims that extend into long sleeves and gloves, the top of the sleeve including a button. The gloves have a pink hand guard pinned with two buttons, and there is a cuff around the wrist. Thigh-high stockings of white, along with a pair of white ankle boots that has a pink cuff and a pink base is worn with the ensemble. The boots have a rubber gripping on the base for better stability of movements. Accessories include a pink headband, each end including a white wing accessory.",
+  	"episode": "4"
+  },
+  {
+  	"id": 3,
+  	"name": "Green Jester",
+  	"imgSrc": "green_jester",
+  	"description": "The whole outfit consists of 3 colors which are orange, green and yellow. The costume is designed to be not only lightweight but also to be easy for Sakura to move in and to not get in Sakura’s way. From the whole costume, you can see that Sakura is wearing shorts under the skirt of the costume. Also the skirt of the costume is split at the front on the costume making it easier to run around in and easier for Sakura to fly on her staff.",
+  	"episode": "30"
+  },
+  {
+  	"id": 4,
+  	"name": "Pink Cat",
+  	"imgSrc": "pink_cat",
+  	"description": "The whole outfit mainly consists of pink and black with 3 yellow bell’s attached on the costume. The costume is designed in a rubbery fabric to prevent electrocution and is also designed to be easy to move in. It is made up of a pink skirt, vest and a black bodysuit. The skirt/vest is short, frilly and colorful. The skirt is very cylindrical and remains in the same shape no matter what Sakura does. The top part of the vest joins with the sleeves and the vest looks slightly like that of an apron. Attached to the top part of the vest and part of the body suit, is a bell. The black body suit extends from the top of Sakura’s torso to the boots. At the back of the vest, just above the skirt, on Sakura’s waist is a pink bow with long tails and a bell attached on each tail. Also attached to the skirt is a slender black cat tail.",
+  	"episode": "8"
+  }
+]
